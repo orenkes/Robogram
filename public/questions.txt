@@ -1,0 +1,17 @@
+0. scroll the page outside of the middle section + phone view compability
+
+1. how to place the upload button on the same spot on all screens
+
+2. view>feed>feedback>CommentSection:12
+    How to minimize this code?
+
+3. Is it possible to place a state inside another state as a default value
+
+4. view>feed>feedback>CommentSection:12
+    How to reach a specific key in database objects - use POST into post.comment rather than render the whole Post component
+
+5. view>feed>indexcopy2:23
+    Why the component doesn't render
+
+6. view>feed>feedback>CommentSection
+    why await on setState do not work

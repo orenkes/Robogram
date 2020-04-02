@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "userName": "rflacke0@eventbrite.com",
+    "password": "S4VGIl0os",
+    "avatar": "https://robohash.org/doloremquiconsequatur.bmp?size=50x50&set=set1",
+    "firstName": "Raynell",
+    "lastName": "Flacke"
+  },
+  {
+    "id": 2,
+    "userName": "sasprey1@ucsd.edu",
+    "password": "vCk1OIbvD",
+    "avatar": "https://robohash.org/repellatatquequam.bmp?size=50x50&set=set1",
+    "firstName": "Sayre",
+    "lastName": "Asprey"
+  },
+  {
+    "id": 3,
+    "userName": "mfarey2@friendfeed.com",
+    "password": "HNycMoID7js",
+    "avatar": "https://robohash.org/quaeratharumeligendi.jpg?size=50x50&set=set1",
+    "firstName": "Mirabelle",
+    "lastName": "Farey"
+  },
+  {
+    "id": 4,
+    "userName": "bgilburt3@abc.net.au",
+    "password": "hbPO71",
+    "avatar": "https://robohash.org/minusconsequaturperspiciatis.jpg?size=50x50&set=set1",
+    "firstName": "Bari",
+    "lastName": "Gilburt"
+  },
+  {
+    "id": 5,
+    "userName": "kmcgilvary4@techcrunch.com",
+    "password": "MIjCkKob",
+    "avatar": "https://robohash.org/dolormaximevoluptate.jpg?size=50x50&set=set1",
+    "firstName": "Konstantine",
+    "lastName": "McGilvary"
+  },
+  {
+    "id": 6,
+    "userName": "cbritt5@is.gd",
+    "password": "UOXfsACy6",
+    "avatar": "https://robohash.org/omnisevenietperspiciatis.png?size=50x50&set=set1",
+    "firstName": "Cherrita",
+    "lastName": "Britt"
+  },
+  {
+    "id": 7,
+    "userName": "ilamping6@bigcartel.com",
+    "password": "4DEKM2v",
+    "avatar": "https://robohash.org/repellatexest.jpg?size=50x50&set=set1",
+    "firstName": "Isis",
+    "lastName": "Lamping"
+  },
+  {
+    "id": 8,
+    "userName": "msiggery7@wunderground.com",
+    "password": "bsVIZMoTl",
+    "avatar": "https://robohash.org/quiavoluptatemiusto.png?size=50x50&set=set1",
+    "firstName": "Margit",
+    "lastName": "Siggery"
+  },
+  {
+    "id": 9,
+    "userName": "lmollnar8@craigslist.org",
+    "password": "OlTPWAqWvw",
+    "avatar": "https://robohash.org/blanditiisimpeditvelit.png?size=50x50&set=set1",
+    "firstName": "Leland",
+    "lastName": "Mollnar"
+  },
+  {
+    "id": 10,
+    "userName": "sborrington9@github.io",
+    "password": "fv169SHdm2",
+    "avatar": "https://robohash.org/nondignissimosqui.jpg?size=50x50&set=set1",
+    "firstName": "Sibyl",
+    "lastName": "Borrington"
+  }
+]
